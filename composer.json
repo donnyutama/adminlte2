@@ -1,6 +1,6 @@
 {
-  "name": "almasaeed2010/adminlte",
-  "description": "AdminLTE - admin control panel and dashboard that's based on Bootstrap 3",
+  "name": "donnyutama/adminlte2",
+  "description": "AdminLTE - admin control panel and dashboard that's based on Bootstrap 3, forked from https://github.com/almasaeed2010/adminlte/releases/tag/v2.4.18",
   "homepage": "https://adminlte.io/",
   "type": "template",
   "keywords": [
